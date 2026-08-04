@@ -1,0 +1,5 @@
+User-agent: *
+
+Allow: /
+
+Sitemap: https://vthyago35-cloud.github.io/site-of-cfx-/sitemap.xml
